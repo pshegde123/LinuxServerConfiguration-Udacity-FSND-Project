@@ -1,4 +1,4 @@
-# LinuxServerConfigureation
+# LinuxServerConfiguration
 This linux server configuration project is Udacity Full Stack Web Development Nanodegree course project.
 Under this project, a user will take a baseline installation of a Linux server and configure the server to actually host a web application.
 Here are the details of the server :
